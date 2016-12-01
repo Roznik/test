@@ -1,1 +1,2 @@
 print("kokot")
+print("pica")
